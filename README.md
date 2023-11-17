@@ -3,6 +3,8 @@
 # Desenvolvido em Laravel, VueJS e PUSHER
 
 ### Para rodar o sistema é necessário seguir os seguintes passos:
+* *Clonar o projeto:* `git clone <REPO_URL>`
+* *Instalar dependências:* `composer create-project`
 * *Configurar o arquivo de ambiente: .env*
 * *Rodar o comando de migração:* `php artisan migrate`
 * *Rodar o comando do servidor:* `php artisan serve`
